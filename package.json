@@ -1,0 +1,21 @@
+{
+  "name": "token.js",
+  "version": "0.0.1",
+  "description": "Simple utility to generate a random token, with the ability to define the length.",
+  "keywords": ["token", "key", "guid"],
+  "author": "John Flesch <john@fles.ch>",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test/token.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flesch/token.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },  
+  "license": "MIT"
+}
