@@ -2,7 +2,13 @@
 
 Simple Node utility to generate a random token including the ability to define the length.
 
+## Installation
 
+```
+$ npm install token.js
+```
+
+## Example
 
 ```
 var token = require('token.js');
